@@ -22,7 +22,9 @@
   },
   "dependencies": {
     "entities": "^1.1.1",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.4.19",
+    "iconv-lite": "^0.4.24",
+    "bufferhelper": "^0.2.1"
   },
   "directories": {
     "test": "test"
